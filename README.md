@@ -6,6 +6,7 @@ Aamir Khan is once of the most influential Bollywood actors of his time with a c
 
 ### Instructions:
   1. Clone the git repo or download "BubbleChart.html" to your local computer
+  #
   2. Open the html file in a web browser
-  
+  #
   In case the html page doesn't load, we've included a screenshot of the chart in this repo.
